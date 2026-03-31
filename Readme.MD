@@ -1,2 +1,2 @@
 # DEMO File
-This is redme demo file to test the pull changes. I have created and updated this file on github now I wanted to pull the same on my local git repo to make sure the code base is up to date.
+This is readme demo file to test the pull changes. I have created and updated this file on github now I wanted to pull the same on my local git repo to make sure the code base is up to date. (corrected the spell)
